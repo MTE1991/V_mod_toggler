@@ -85,9 +85,10 @@ _ONLINE_SAFE_BACKUP/manifest.json
 
 ## How to Run
 
-### Download and run the binary directly from here:
+### 1. Recommended:
+Download and run the latest binary directly from here: https://github.com/MTE1991/V_mod_toggler/releases/
 
-Or,
+### 2. Build it yourself:
 
 1. Install Python if it is not already installed.
 2. Place `gta_v_mod_toggle_gui.py` anywhere you want.
