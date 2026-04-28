@@ -1,4 +1,4 @@
-# GTA V Online Safe Mod Toggle GUI
+# GTA V Online Safe Mod Toggler
 
 A small Python/Tkinter desktop app for temporarily moving common GTA V mod files, mod loaders, ASI plugins, trainer files, and trainer folders into a backup folder before launching GTA Online.
 
