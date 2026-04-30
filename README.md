@@ -303,7 +303,7 @@ This helps reduce the risk of damaging the GTA V installation.
 
 ---
 
-## Troubleshooting
+## FAQ & Troubleshooting
 
 ### The app says no mod files were found
 
