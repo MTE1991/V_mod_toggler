@@ -4,7 +4,7 @@ A small Python/Tkinter desktop app for temporarily moving common GTA V mod files
 
 The app scans your GTA V installation folder, shows the detected mod-related files and folders, lets you choose exactly what should be moved, and saves a restore manifest so the selected items can be restored later.
 
-> **Important:** This tool is designed to reduce the chance of accidentally launching GTA Online with obvious mod files present. It does **not** guarantee that Rockstar Games will consider your installation safe. Always use your own judgment and always close GTA V before moving or restoring files.
+> **Important:** This tool is designed to reduce the chance of accidentally launching GTA Online with obvious mod files present. It does **not** guarantee that Rockstar Games will consider your installation safe. Additionally, it does not fully cover special mods and plugins (e.g. LSPDFR, Rage Plugin Hook). Always use your own judgment and always close GTA V before moving or restoring files.
 
 ---
 
