@@ -24,7 +24,7 @@ KNOWN_MOD_DLLS = {
     "dinput8.dll", "dsound.dll", "scripthookv.dll", "scripthookvdotnet.asi",
     "scripthookvdotnet2.dll", "scripthookvdotnet3.dll", "openiv.asi",
     "ragepluginhook.dll", "ragepluginhook.ini", "rphsettings.ini",
-    "menyoo.asi", "rampage.asi", "nativeui.dll", "version.dll", "xlive.dll",
+    "menyoo.asi", "rampage.asi", "nativeui.dll", "version.dll", "xlive.dll", "xinput1_4.dll"
 }
 
 KNOWN_MOD_FILES = {
