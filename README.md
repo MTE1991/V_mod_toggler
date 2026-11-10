@@ -28,6 +28,7 @@ The app scans your GTA V installation folder, shows the detected mod-related fil
   - AddonSpawner
 - Detects common mod loader/plugin files such as:
   - `dinput8.dll`
+  - `xinput1_4.dll`
   - `ScriptHookV.dll`
   - `ScriptHookVDotNet*.dll`
   - `OpenIV.asi`
